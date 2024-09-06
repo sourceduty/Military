@@ -13,6 +13,15 @@ Beyond the army and navy, other military subfields include the air force, space 
 The necessitation of defense using firearms, equipment, and soldiers is rooted in the need for national security and the protection of citizens. In an unpredictable world where conflicts and threats can arise without warning, having a capable military force serves as a deterrent to potential aggressors. Firearms and other military equipment provide soldiers with the means to defend their country effectively. Advanced weaponry, vehicles, and communication systems enhance a military’s ability to respond to threats with speed and precision, ensuring that any attack can be met with a well-coordinated defense.
 
 #
+### Underwater Operations
+
+![Scuba Rocket](https://github.com/user-attachments/assets/c20568a6-c531-45ba-849a-7f062d07058c)
+
+Military scuba operations are critical for modern naval warfare, particularly when it comes to supporting and enhancing the effectiveness of ships and naval artillery. These specialized divers conduct covert missions such as underwater reconnaissance, sabotage, and intelligence gathering around enemy naval assets. By operating stealthily beneath the surface, they can approach enemy ships and submarines undetected, planting explosives or gathering information on naval artillery positions. In scenarios where naval vessels are preparing to engage in combat, scuba teams may conduct pre-attack missions to identify underwater obstacles or clear mines, ensuring safe passage for their fleet. Their silent movements make them invaluable for operating near enemy ships without detection.
+
+These operations are often coordinated with larger naval strategies involving surface vessels and artillery. Military divers may be tasked with disabling underwater sensors or targeting systems that are crucial to the effectiveness of enemy naval artillery. They may also support amphibious assaults by securing landing zones and conducting sabotage operations on underwater sections of coastal fortifications. Whether laying the groundwork for naval artillery strikes or directly assisting in ship-based operations, military scuba teams work seamlessly with naval forces to disrupt enemy defenses and ensure strategic dominance in maritime warfare.
+
+#
 ### Sourceduty Military
 
 ![Toronto Submarine](https://github.com/user-attachments/assets/8895bac7-4b54-4b0b-afee-af48b6660ad1)
