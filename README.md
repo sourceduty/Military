@@ -22,6 +22,22 @@ Military scuba operations are critical for modern naval warfare, particularly wh
 These operations are often coordinated with larger naval strategies involving surface vessels and artillery. Military divers may be tasked with disabling underwater sensors or targeting systems that are crucial to the effectiveness of enemy naval artillery. They may also support amphibious assaults by securing landing zones and conducting sabotage operations on underwater sections of coastal fortifications. Whether laying the groundwork for naval artillery strikes or directly assisting in ship-based operations, military scuba teams work seamlessly with naval forces to disrupt enemy defenses and ensure strategic dominance in maritime warfare.
 
 #
+### Torpedoes
+
+Torpedoes can travel at varying speeds depending on their design and purpose. Modern heavyweight torpedoes typically travel between 30 to 55 knots (about 35 to 63 miles per hour or 56 to 102 kilometers per hour). Some advanced models, like supercavitating torpedoes, can reach speeds up to 200 knots (230 miles per hour or 370 kilometers per hour) by reducing water resistance. The speed of a torpedo is a balance between propulsion efficiency, stealth, and payload requirements.
+
+Torpedoes receive power primarily from electric batteries, gas turbines, or piston engines, depending on the type. Electric-powered torpedoes are quieter, making them ideal for stealth missions, while gas or piston engines may provide higher speeds and longer ranges. Control of a torpedo is managed through a combination of pre-programmed guidance systems and onboard sensors. These systems allow the torpedo to adjust its course using control surfaces such as fins and rudders, or through active homing mechanisms that use sonar to track and follow targets.
+
+#
+### Torpedo Speeds
+
+![Torpedo Speed](https://github.com/user-attachments/assets/4a65ed7d-b8c2-4c52-9401-b70aa3ec076f)
+
+This calculation of the hydrodynamic drag force acting on a common torpedo, like the Mark 48, reveals the substantial resistance a torpedo faces as it accelerates through water. Using the drag equation, with a drag coefficient of 0.2, water density of 1000 kg/m³, and a cross-sectional area of 0.223 m², the drag force is shown to increase exponentially with speed. For example, at its maximum speed of 28.3 m/s (55 knots), the torpedo experiences a drag force of approximately 17,898 Newtons. This significant force acts as a counter to the torpedo’s propulsion, requiring a considerable amount of energy to maintain its speed as it overcomes the dense resistance of water.
+
+Furthermore, the energy required to overcome this drag rises dramatically as the torpedo accelerates. By calculating the energy based on the drag force and distance traveled over time, it becomes evident that the energy needed increases sharply, corresponding to the growing drag force. The plotted graphs clearly illustrate the relationship between speed, drag force, and energy, showing that as the torpedo speeds up, the water resistance builds exponentially, which in turn demands a progressively greater amount of energy to sustain acceleration and velocity. This highlights the challenges of hydrodynamics in underwater propulsion systems, especially at high speeds.
+
+#
 ### Sourceduty Military
 
 ![Toronto Submarine](https://github.com/user-attachments/assets/8895bac7-4b54-4b0b-afee-af48b6660ad1)
