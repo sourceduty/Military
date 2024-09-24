@@ -51,10 +51,6 @@ Sourceduty has differentiated itself in the conceptual military design space by 
 ![James Bond](https://github.com/user-attachments/assets/98526039-dc99-4834-a3aa-bcc668514e30)
 
 #
-
-![Tank](https://github.com/user-attachments/assets/ff150912-49e7-44d1-a0a9-a520d69cbac6)
-
-#
 ### Related Links
 
 [Military Operations](https://github.com/sourceduty/Military_Operations)
@@ -68,6 +64,10 @@ Sourceduty has differentiated itself in the conceptual military design space by 
 [Military Automation](https://github.com/sourceduty/Military_Automation)
 <br>
 [Guns](https://github.com/sourceduty/Guns)
+
+#
+
+![Tank](https://github.com/user-attachments/assets/ff150912-49e7-44d1-a0a9-a520d69cbac6)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
