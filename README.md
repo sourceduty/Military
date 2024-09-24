@@ -1,4 +1,4 @@
-![Tank](https://github.com/user-attachments/assets/ff150912-49e7-44d1-a0a9-a520d69cbac6)
+![Naked Bomber](https://github.com/user-attachments/assets/6289acb5-4321-44b5-9e2c-40be43ef17ac)
 
 > International armed forces in different branches of militaries.
 
@@ -49,6 +49,10 @@ Sourceduty has differentiated itself in the conceptual military design space by 
 #
 
 ![James Bond](https://github.com/user-attachments/assets/98526039-dc99-4834-a3aa-bcc668514e30)
+
+#
+
+![Tank](https://github.com/user-attachments/assets/ff150912-49e7-44d1-a0a9-a520d69cbac6)
 
 #
 ### Related Links
