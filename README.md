@@ -64,6 +64,8 @@ Sourceduty has differentiated itself in the conceptual military design space by 
 [Military Automation](https://github.com/sourceduty/Military_Automation)
 <br>
 [Guns](https://github.com/sourceduty/Guns)
+<br>
+[Emergency & Survival Gear](https://github.com/sourceduty/Emergency_Survival_Gear)
 
 #
 
