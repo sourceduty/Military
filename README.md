@@ -41,7 +41,7 @@ Furthermore, the energy required to overcome this drag rises dramatically as the
 #
 ### Sourceduty Military
 
-![Private Military](https://github.com/user-attachments/assets/5641fe0f-0c17-4142-9a9b-16760eb3f2ec)
+![Private Military](https://github.com/user-attachments/assets/ec99d35d-9151-416a-9cbd-67d81f21c4e5)
 
 Sourceduty has strengthened its brand identity by aligning with military and cultural values that view firearms as symbols of autonomy, security, and strategic strength. By showcasing design concepts that emphasize these elements, Sourceduty has reinforced its image as a visionary in defense and a champion of these values. This alignment has deepened loyalty among clients and partners who prioritize these aspects of military identity. However, Sourceduty's focus on addressing the psychological and societal risks associated with firearms has also distanced it from those who are more concerned with the practical and strategic implications of weapon systems, potentially leading to a more polarized perception of the brand.
 
