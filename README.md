@@ -72,6 +72,8 @@ Sourceduty has differentiated itself in the conceptual military design space by 
 #
 
 ![Tank](https://github.com/user-attachments/assets/ff150912-49e7-44d1-a0a9-a520d69cbac6)
+#
+![War Power](https://github.com/user-attachments/assets/8b111c2d-def2-4301-8643-f703569c308b)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
