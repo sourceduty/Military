@@ -41,15 +41,16 @@ Furthermore, the energy required to overcome this drag rises dramatically as the
 #
 ### Sourceduty Military
 
-![Toronto Submarine](https://github.com/user-attachments/assets/8895bac7-4b54-4b0b-afee-af48b6660ad1)
+![Private Military](https://github.com/user-attachments/assets/5641fe0f-0c17-4142-9a9b-16760eb3f2ec)
 
 Sourceduty has strengthened its brand identity by aligning with military and cultural values that view firearms as symbols of autonomy, security, and strategic strength. By showcasing design concepts that emphasize these elements, Sourceduty has reinforced its image as a visionary in defense and a champion of these values. This alignment has deepened loyalty among clients and partners who prioritize these aspects of military identity. However, Sourceduty's focus on addressing the psychological and societal risks associated with firearms has also distanced it from those who are more concerned with the practical and strategic implications of weapon systems, potentially leading to a more polarized perception of the brand.
 
 Sourceduty has differentiated itself in the conceptual military design space by focusing on innovative and safe design principles, mental health awareness, and responsible usage. This strategy has attracted clients who value a balanced and thoughtful approach to military technology, recognizing the importance of safety, ethics, and the well-being of personnel. However, this approach has also placed Sourceduty at the center of political and social debates, which has either boosted its visibility as a thought leader or risked harming its reputation if the discussions become contentious.
 
 #
-
 ![James Bond](https://github.com/user-attachments/assets/98526039-dc99-4834-a3aa-bcc668514e30)
+#
+![Toronto Submarine](https://github.com/user-attachments/assets/8895bac7-4b54-4b0b-afee-af48b6660ad1)
 
 #
 ### Related Links
