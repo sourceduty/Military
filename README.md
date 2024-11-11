@@ -14,6 +14,13 @@ Beyond the army and navy, other military subfields include the air force, space 
 The necessitation of defense using firearms, equipment, and soldiers is rooted in the need for national security and the protection of citizens. In an unpredictable world where conflicts and threats can arise without warning, having a capable military force serves as a deterrent to potential aggressors. Firearms and other military equipment provide soldiers with the means to defend their country effectively. Advanced weaponry, vehicles, and communication systems enhance a military’s ability to respond to threats with speed and precision, ensuring that any attack can be met with a well-coordinated defense.
 
 #
+### Custom GPT
+
+[Private Military](https://chatgpt.com/g/g-67325bbd8948819088e1390ad6096f77-private-military) serves as a comprehensive resource for creating, organizing, and managing private military enterprises in hypothetical, strategic, or game-based scenarios. It provides in-depth guidance on operational structure, logistics, legal compliance, and risk management, making it an invaluable tool for anyone exploring the complexities of private military operations. The GPT focuses on delivering actionable advice and strategic insights that align with ethical guidelines and adhere to international laws governing private security and defense. Whether you are crafting scenarios for a simulation, strategizing for a game, or analyzing potential business models within this niche, this GPT offers clarity and expertise.
+
+Beyond operational and legal considerations, "Private Military" assists in the development of tailored strategies for recruitment, deployment, and resource management. It emphasizes the importance of professionalism, accountability, and ethical decision-making in private military planning. While it does not engage in or endorse unauthorized or illegal activities, it provides a neutral platform for exploring legitimate and creative approaches to challenges in this field. With a professional tone and a clear communication style, the GPT is designed to support users in navigating the complexities of private military enterprise planning effectively and responsibly.
+
+#
 ### Underwater Operations
 
 ![Scuba Rocket](https://github.com/user-attachments/assets/c20568a6-c531-45ba-849a-7f062d07058c)
