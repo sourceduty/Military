@@ -1,3 +1,4 @@
+![Private Army](https://github.com/user-attachments/assets/02db371b-c0cd-4faf-b602-0439406f9995)
 ![Naked Bomber](https://github.com/user-attachments/assets/6289acb5-4321-44b5-9e2c-40be43ef17ac)
 
 > International armed forces in different branches of militaries.
